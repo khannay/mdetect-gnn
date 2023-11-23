@@ -1,6 +1,10 @@
 _docs/
 _proc/
 
+# ignore the data directory
+data/
+Cora/*
+
 *.bak
 .gitattributes
 .last_checked
